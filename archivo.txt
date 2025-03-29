@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-Cambio en leidy
-=======
+
 Cambio en feature
->>>>>>> feature
+
+cambios 
+
